@@ -11,3 +11,5 @@ How to run the project:
 3. Make sure to add your API key in the: backend/routes/imageRoutes.js file.
 4. From the MSApps folder, run the following command: "npm run dev", which will start the backend and frontend on your machine.
 5. Enjoy!
+
+Or just click [MSApps](https://msapps.onrender.com/) to visit the website.
