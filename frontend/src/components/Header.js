@@ -48,7 +48,7 @@ const Header = () => {
           style={{ top: 0, left: 10 }}
         >
           <Navbar.Brand href="/" style={navbarStyle}>
-            MSApps
+            App
           </Navbar.Brand>
         </Navbar>
         {/* Heading */}
